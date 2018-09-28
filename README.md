@@ -17,4 +17,5 @@ Compiler version: VC15
 Notes on compiling - commands used
 -------------------
 TS: `configure --disable-all --enable-cli --with-ssh2=shared --enable-zlib --with-openssl`
+
 NTS: `configure --disable-all --enable-cli --with-ssh2=shared --enable-zlib --with-openssl --disable-zts`
