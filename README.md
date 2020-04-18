@@ -2,6 +2,7 @@ PECL SSH2 extension compiled for Windows
 =================================
 
 This repository contains `php_ssh2` extension compiled for use on Windows.
+**You are encouraged to use official PECL build of version 1.2 -** https://pecl.php.net/package/ssh2/1.2/windows
 
 
 PHP 7.3
